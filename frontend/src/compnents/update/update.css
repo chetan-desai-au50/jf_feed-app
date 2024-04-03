@@ -1,0 +1,27 @@
+.Update{
+    height: 460px;
+    width: 280px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    box-sizing: border-box;
+}
+.up{
+    height: 460px;
+    width: 220px;
+}
+.up2{
+    margin-top: 50px;
+}
+.inputU{
+    width: 220px;
+    border: 1.2px solid black;
+}
+
+.buttonU{
+    width: 100%;
+    margin-top: 20px;
+    border: 1.2px solid black;
+}
